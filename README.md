@@ -1,6 +1,6 @@
 # financeOrganizer
 
-A new Flutter project.
+Finance Organizer, is a simple app made in Flutter to show your lists of transactions, can be used for money calculation.
 
 ## Getting Started
 
